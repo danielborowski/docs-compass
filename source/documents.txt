@@ -8,11 +8,16 @@ Documents Tab
 
 .. contents:: On this page
    :local:
-   :backlasadadf?????D?D
-   d..d.d
-   d
-   ddwswe23
-   ---_SF>>F>>.....///. l l l 
+   :backlinks: none
+   :depth: 1
+   :class: singlecol
+
+.. include:: /includes/extracts/readonly-not-permitted-documents.rst
+
+.. _documents-tab:
+
+Documents Tab
+-------------
 
 From the :guilabel:`Documents` tab, you can view, insert, clone,
 modify, and delete documents.
