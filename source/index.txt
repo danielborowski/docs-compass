@@ -12,11 +12,35 @@ MongoDB Compass
    :depth: 1
    :class: singlecol
 
-What is |compass|lllss../
-,,.,>>>>>
+.. DOES_NOT_EXIST:: -----///////..??PLEASE BREAK
+.. s
 
-a0---s-s-s-s--s-s-e
-23.2.3.23..(**(((((()))))))
+What is |compass|?
+------------------
+
+|compass| is the :abbr:`GUI (Graphical User Interface)` for MongoDB.
+|compass-short| allows you to analyze and understand the contents of
+your data without formal knowledge of MongoDB
+:manual:`query syntax </tutorial/query-documents>`. In addition to
+exploring your data in a visual environment, you can also use
+|compass-short| to :ref:`optimize query performance <explain-plans>`,
+:ref:`manage indexes <compass-indexes>`, and implement
+:ref:`document validation <validation>`.
+
+.. _compass-and-community-eds:
+
+Available |compass-short| Editions
+----------------------------------
+
+|compass-short| is offered in four editions:
+
+.. list-table::
+   :header-rows: 1
+   :widths: 25 70 5
+
+   * - Edition
+     - Description
+     - Availability
 
    * - :guilabel:`Compass Community`
      - This edition is for developing with MongoDB and includes a
