@@ -12,9 +12,6 @@ MongoDB Compass
    :depth: 1
    :class: singlecol
 
-.. DOES_NOT_EXIST:: -----///////..??PLEASE BREAK
-.. s
-
 What is |compass|?
 ------------------
 
