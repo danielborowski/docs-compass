@@ -1,7 +1,7 @@
 .. _compass-documents:
 
 =============
-Documents Tab
+Documents asdadasdTab
 =============
 
 .. default-domain:: mongodb
