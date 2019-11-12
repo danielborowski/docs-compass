@@ -1,2 +1,3 @@
-"build-and-stage-next-gen"
-
+#!/bin/sh
+pwd;
+make html 
